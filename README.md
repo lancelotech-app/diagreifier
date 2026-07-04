@@ -54,7 +54,7 @@ Plans are billed monthly or annually via **Stripe**. Manage your subscription di
 - **Intellectual property**: All rights reserved. Reverse engineering or redistribution is prohibited.
 
 📧 **Contact**: [diagreifier@proton.me](mailto:diagreifier@proton.me)  
-© 2025 diagReifier — Author by Kouevi Folly Rubain
+© 2026 diagReifier — Author | Folly Rubain Kouevi
 
 ---
 
